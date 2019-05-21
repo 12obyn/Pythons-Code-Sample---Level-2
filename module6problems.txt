@@ -1,0 +1,26 @@
+// Maylene Garcia
+// Module 6 Problems
+// 5/14/2019
+
+
+public class sampleClass
+{
+  int x = 5;
+  int y = 10;
+  
+  public static  void main(String []args)
+  {
+    sampleClass sampleObj = new sampleClass();
+    
+    System.out.println(sampleObj.x);
+      
+    
+    sampleClass sampleObj2 = new sampleClass();
+    
+    System.out.println(sampleObj2.y);
+      
+    
+      
+    }
+}
+
