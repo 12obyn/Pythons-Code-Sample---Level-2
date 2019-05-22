@@ -1,6 +1,8 @@
  // Maylene Garcia
  // 5-7-19
  
+// Add a comment, what does this program do?
+
  class problem3
  {
 	public static void main(String []args)
